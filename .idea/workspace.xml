@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="556934ef-fbf1-4320-90ce-3124eb08e24e" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/functional_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_test.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/superDjango/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functional_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/superDjango/functional_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superDjango/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/superDjango/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/superDjango/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/superDjango/lists/views.py" afterDir="false" />
+>>>>>>> 第一个Demo
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+<<<<<<< HEAD
+    <SUITE FILE_PATH="coverage/ProjectDjango$functional_test.coverage" NAME="functional_test Coverage Results" MODIFIED="1577560354630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+=======
+    <SUITE FILE_PATH="coverage/ProjectDjango$pytest_for_tests_SmokeTest_test_bad_maths.coverage" NAME="pytest for tests.SmokeTest.test_bad_maths Coverage Results" MODIFIED="1577560832195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/superDjango/lists" />
+    <SUITE FILE_PATH="coverage/ProjectDjango$functional_test.coverage" NAME="functional_test Coverage Results" MODIFIED="1577560354630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectDjango$pytest_for_tests_SmokeTest_test_root_url_resolves_to_home_page_view.coverage" NAME="pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view Coverage Results" MODIFIED="1577561532012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/superDjango/lists" />
+>>>>>>> 第一个Demo
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="828280482">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+<<<<<<< HEAD
+=======
+          <entry key="project.closed" value="1" />
+>>>>>>> 第一个Demo
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="py" value="2" />
+=======
+          <entry key="md" value="1" />
+          <entry key="py" value="4" />
+>>>>>>> 第一个Demo
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="Python" value="2" />
+=======
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="4" />
+>>>>>>> 第一个Demo
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="py" value="873" />
+=======
+          <entry key="py" value="1195" />
+>>>>>>> 第一个Demo
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="Python" value="873" />
+=======
+          <entry key="Python" value="1195" />
+>>>>>>> 第一个Demo
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/functional_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superDjango/functional_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+>>>>>>> 第一个Demo
+              <folding>
+                <element signature="e#59#89#0" expanded="true" />
+                <marker date="1577560324936" expanded="true" signature="147:246" ph="..." />
+                <marker date="1577560324936" expanded="true" signature="301:304" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="241" selection-start-line="241" selection-end-line="241" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/superDjango/lists/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+                <marker date="1577561214244" expanded="true" signature="164:165" ph="..." />
+                <marker date="1577561214244" expanded="true" signature="164:167" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/superDjango/lists/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+>>>>>>> 第一个Demo
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/functional_test.py" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/superDjango/lists/views.py" />
+        <option value="$PROJECT_DIR$/superDjango/lists/tests.py" />
+>>>>>>> 第一个Demo
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+<<<<<<< HEAD
+    <option name="x" value="566" />
+=======
+    <option name="x" value="431" />
+>>>>>>> 第一个Demo
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectDjango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDjango" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+            <path>
+              <item name="ProjectDjango" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDjango" type="462c0819:PsiDirectoryNode" />
+              <item name="superDjango" type="462c0819:PsiDirectoryNode" />
+            </path>
+=======
+>>>>>>> 第一个Demo
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+<<<<<<< HEAD
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+=======
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/superDjango" />
+    </key>
+>>>>>>> 第一个Demo
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager">
+=======
+  <component name="RunManager" selected="Python tests.pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view">
+>>>>>>> 第一个Demo
+    <configuration name="functional_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ProjectDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functional_test.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/superDjango/functional_test.py" />
+>>>>>>> 第一个Demo
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+=======
+    <configuration name="pytest for tests.SmokeTest.test_bad_maths" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/superDjango/lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.SmokeTest.test_bad_maths&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/superDjango/lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.SmokeTest.test_root_url_resolves_to_home_page_view&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.functional_test" />
+      <item itemvalue="Python tests.pytest for tests.SmokeTest.test_bad_maths" />
+      <item itemvalue="Python tests.pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view" />
+        <item itemvalue="Python tests.pytest for tests.SmokeTest.test_bad_maths" />
+>>>>>>> 第一个Demo
+        <item itemvalue="Python.functional_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="556934ef-fbf1-4320-90ce-3124eb08e24e" name="Default Changelist" comment="" />
+      <created>1577535911882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577535911882</updated>
+    </task>
+    <servers />
+  </component>
+<<<<<<< HEAD
+  <component name="ToolWindowManager">
+    <frame x="659" y="23" width="1440" height="832" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24391988" />
+=======
+  <component name="TestHistory">
+    <history-entry file="pytest_for_tests_SmokeTest_test_bad_maths - 2019.12.29 at 03h 20m 32s.xml">
+      <configuration name="pytest for tests.SmokeTest.test_bad_maths" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_tests_SmokeTest_test_root_url_resolves_to_home_page_view - 2019.12.29 at 03h 32m 12s.xml">
+      <configuration name="pytest for tests.SmokeTest.test_root_url_resolves_to_home_page_view" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="431" y="23" width="1440" height="832" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24391988" />
+>>>>>>> 第一个Demo
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32567567" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32567567" />
+>>>>>>> 第一个Demo
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/functional_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/superDjango/functional_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+>>>>>>> 第一个Demo
+          <folding>
+            <element signature="e#59#89#0" expanded="true" />
+            <marker date="1577560324936" expanded="true" signature="147:246" ph="..." />
+            <marker date="1577560324936" expanded="true" signature="301:304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/superDjango/lists/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superDjango/lists/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superDjango/lists/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1577561214244" expanded="true" signature="164:165" ph="..." />
+            <marker date="1577561214244" expanded="true" signature="164:167" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 第一个Demo
+  </component>
+</project>
