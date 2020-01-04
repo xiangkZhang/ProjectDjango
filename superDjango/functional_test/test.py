@@ -3,13 +3,36 @@
 # Author : XK
 from django.test import LiveServerTestCase
 from selenium import webdriver
+import time
+from selenium.common.exceptions import WebDriverException
+from selenium.webdriver.common.keys import Keys
 import unittest
+
 
 class NewVisitorTest(LiveServerTestCase):
 	def setUp(self):
 		self.browser = webdriver.Chrome()
 	def tearDown(self):
 		self.browser.quit()
+
+
+
+	def wait_for_row_in_list_table(self,row_text):
+		Max_Wait = 10
+		start_time = time.time()
+		while True:
+			try:
+				self.browser.find_element_by_id('id_list_table')
+				rows =self.browser.find_elements_by_tag_name('tr')
+				self.assertIn(row_text,[row.text for row in rows])
+				return
+			except (AssertionError,WebDriverException) as e:
+				if time.time()-start_time> Max_Wait:
+					raise e
+				time.sleep(0.5)
+
+
+
 
 	def test_can_start_a_list_and_retrieve_it_later(self):
 		# 访问应用首页
@@ -18,8 +41,27 @@ class NewVisitorTest(LiveServerTestCase):
 		self.browser.get(self.live_server_url)
 
 		#网页标题和头部豆瓣汗'To-Do'这个词
-		self.assertIn("To-do",self.browser.title)
-		self.fail('Finish the test!')
+		self.assertIn("To-Do",self.browser.title)
+		# self.fail('Finish the test!')
+		input1 =self.browser.find_element_by_id('id_new_item')
+		input1.send_keys('Buy peacock feathers')
+		input1.send_keys(Keys.ENTER)
+
+		inputbox = self.browser.find_element_by_id('id_new_item')
+		inputbox.send_keys('Use peacock feathers to make a fly')
+		inputbox.send_keys(Keys.ENTER)
+
+		self.wait_for_row_in_list_table('1:Buy peacock feathers')
+		self.wait_for_row_in_list_table('2:Use peacock feathers to make a fly')
+
+	def test_multiple_users_can_start_lists_at_diffrent_urls(self):
+		self.browser.get(self.live_server_url)
+		inputbox = self.browser.find_element_by_id('id_new_item')
+		inputbox.send_keys('Buy peacock feathers')
+		inputbox.send_keys(Keys.ENTER)
+
+		edith_list_url = self.browser.current_url
+		self.assertRegex(edith_list_url,'/lists/.+')
 
 
 #应用邀请他输入一个待办事项
